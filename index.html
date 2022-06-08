@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
-    <title>TicoElectora</title>
+    <title>Elector CR</title>
 </head>
 
 <body>
@@ -51,8 +51,7 @@
         <div id="fondo-header"></div>
         <div id="frase-header">
             <h3>Elecciones 2022</h3>
-            <p>¿Quiénes llegarán a casa presidencial y al edificio de la Asamblea? Descubra los detalles de la
-                campaña electoral.</p>
+            <p>Conozca puntual y detalladamente acerca de los candidatos para sumir las riendas de nuestro país</p>
         </div>
     </header>
 
@@ -143,7 +142,13 @@
     <footer class="text-center text-white">
      
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-            Derechos Resevados | Abiel Bermúdez Salguera | Elecciones Presidenciales 2022
+            <credit>&copy; Derechos Reservados Elecciones Costa Rica 2022</credit>
+            <div id="date">
+                may 25,2022
+            </div>
+            <script>
+                document.getElementById("date").innerHTML=new Date().toDateString()
+            </script>
         </div>
       
     </footer>
