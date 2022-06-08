@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(rgba(31, 36, 32, 0.644), rgba(31, 29, 29, 0.705)),url('../img/democracia.webp') fixed center center;
+}
+
+img body{
+    width: 100%;
+    height: auto;
+}
