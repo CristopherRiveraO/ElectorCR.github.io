@@ -1,3 +1,8 @@
+body{
+    background-image: url('../img/democracia.jpg');
+}
+
+
 #header #header-title{
     font-family:Arial, Helvetica, sans-serif;
     text-transform: uppercase;  
@@ -142,6 +147,12 @@ main #partido4 #videos #youtube{
 footer{
     background: #343a40;
 
+}
+
+table{
+    border-radius: 10%;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
