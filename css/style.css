@@ -30,7 +30,7 @@ body{
 main #principal{
     margin-right: 0.2px;
     padding-top: 10px;
-    background: linear-gradient(rgba(31, 36, 32, 0.644), rgba(31, 29, 29, 0.705)),url("../img/costarica.jpg") fixed center center;
+    background: linear-gradient(rgba(31, 36, 32, 0.644), rgba(31, 29, 29, 0.705)),url('../img/bandera.jpg') fixed center center;
 }
 
 
