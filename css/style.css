@@ -1,0 +1,146 @@
+#header #header-title{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;  
+    font-size: 14px;
+    letter-spacing: 2.2px;
+}
+
+#header #fondo-header{
+
+    background: linear-gradient(rgba(255, 255, 255, 0.733), rgba(83, 83, 83, 0.705)),url("../img/fondoheader.png") no-repeat center;
+    padding: 90px;
+}
+
+#header #frase-header{
+    padding: 20px 100px 20px 100px;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+  
+}
+
+
+
+main #principal{
+    margin-right: 0.2px;
+    padding-top: 10px;
+    background: linear-gradient(rgba(31, 36, 32, 0.644), rgba(31, 29, 29, 0.705)),url("../img/costarica.jpg") fixed center center;
+}
+
+
+
+
+main #section1{
+    background: linear-gradient(rgba(0, 0, 0, 0.733), rgba(83, 83, 83, 0.705));
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+main #section1 h4{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;  
+    text-align: center;
+    color: white;
+}
+
+main #section2{
+    margin-top: 30px;
+}
+
+main #section2 h4{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;  
+    text-align: center;
+    color: white;
+    
+}
+
+#about-candidato{
+   
+    background-color: #343a4094;
+    color: white;
+    margin-bottom: 10px;
+    margin-left:50px;
+    margin-right: 35px;
+}
+#about-candidato #imagen{
+    float: left;
+    padding: 30px;
+}
+#about-candidato #texto{
+    padding: 30px;
+}
+
+.titulo{  
+    padding: 20px 100px 20px 100px;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+}
+
+main #partido1{  
+    background: linear-gradient(rgba(31, 36, 32, 0.644), rgba(31, 29, 29, 0.705)),url("../img/fondobanderafabricio.png") fixed center center no-repeat;
+    color: white;
+    text-align: center;
+}
+
+main #partido2{  
+    background: linear-gradient(rgba(31, 36, 32, 0.644), rgba(31, 29, 29, 0.705)),url("../img/fondobanderajose.png") fixed center center no-repeat;
+    color: white;
+    text-align: center;
+}
+
+main #partido3{  
+    background: linear-gradient(rgba(31, 36, 32, 0.644), rgba(31, 29, 29, 0.705)),url("../img/fondobanderamaria.jpg") fixed center center no-repeat;
+    color: white;
+    text-align: center;
+}
+main #partido4{  
+    background: linear-gradient(rgba(31, 36, 32, 0.644), rgba(31, 29, 29, 0.705)),url("../img/fondobanderarodrigo.png") fixed center center no-repeat;
+    color: white;
+    text-align: center;
+}
+
+#principal-encuestas{
+    height: 655px;
+    margin-right: 0.2px;
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 3px;
+    background: linear-gradient(rgba(31, 36, 32, 0.644), rgba(31, 29, 29, 0.705)),url("../img/costarica.jpg") fixed center center;;
+}
+
+#about-partido{
+    padding: 20px;
+    padding-bottom: 5px;
+    background-color: #343a4094;
+    color: white;
+    margin-top: 40px;
+    margin-left:50px;
+    margin-right: 35px;
+    border-radius: 5px;
+}
+
+main #partido1 #videos #youtube{  
+    margin: 50px;
+}
+main #partido2 #videos #youtube{  
+    margin: 50px;
+}
+main #partido3 #videos #youtube{  
+    margin: 50px;
+}
+main #partido4 #videos #youtube{  
+    margin: 50px;
+}
+
+
+footer{
+    background: #343a40;
+
+}
+
+
